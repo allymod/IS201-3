@@ -1,0 +1,16 @@
+h1{
+    color: blue
+}
+h2{ 
+    color: black;
+}
+
+body{
+    background-color: rgb(241, 223, 240);
+}
+body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
